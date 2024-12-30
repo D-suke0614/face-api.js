@@ -30,7 +30,7 @@ export class DrawFaceLandmarksOptions {
     this.lineWidth = lineWidth || 1
     this.pointSize = pointSize || 2
     this.lineColor = lineColor || 'rgba(0, 255, 255, 1)'
-    this.pointColor = pointColor || 'rgba(255, 0, 255, 1)'
+    this.pointColor = pointColor || 'rgba(255, 255, 255, 0)'
   }
 }
 
